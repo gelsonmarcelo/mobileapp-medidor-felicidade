@@ -1,0 +1,5 @@
+#MobileApp-medidor-felicidade
+
+Projeto criado como trabalho final para a disciplina de Programação para Dispositivos Móveis.
+
+Esse aplicativo tem objetivo de ser um medidor de felicidade geral, todo dia o usuário deverá selecionar o sentimento/humor dentre as 5 opções disponíveis no app, para representar seu estado atual naquele dia. Sendo assim, além de escolher o sentimento, se quiser ele poderá descrever porque escolheu aquele sentimento, gerando um histórico que ficará disponível para visualização na outra tela do app, que é acessível através de um botão flutuante, localizado na direita embaixo. Se o usuário selecionar no mesmo dia mais de um sentimento, apenas o último será salvo e o anterior será substituído pelos dados do novo. O círculo central será a representação da felicidade geral do indivíduo, que será gerada a partir de todos os sentimentos registrados pelo usuário até o momento.
